@@ -19,7 +19,7 @@ All your worlds will be saved at terraria-files (check config 2 be sure)
 
 ## I need halp!
 
-Feel free to contact me at [https://t.me/dotnettalks](Dotnet.RU "green chat") or guy from that chat, they will help you (maybe idc)
+Feel free to contact me at [Dotnet.RU green chat](https://t.me/dotnettalks) or guy from that chat, they will help you (maybe idc)
 
 ## Contributing
 
@@ -27,4 +27,4 @@ Fork -> Create new branch on your fork -> send PR
 
 DO NOT send me a PR's from fork's master branch!
 
-Check ("this")[https://gist.github.com/Chaser324/ce0505fbed06b947d962] guide about forking flow
+Check [this](https://gist.github.com/Chaser324/ce0505fbed06b947d962) guide about forking flow
