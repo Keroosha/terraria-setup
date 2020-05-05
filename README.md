@@ -23,7 +23,7 @@ All your worlds will be saved at terraria-files (check config 2 be sure)
 
 ## I need halp!
 
-Feel free to contact me at [Dotnet.RU green chat](https://t.me/dotnettalks) or guy from that chat, they will help you (maybe idc)
+Feel free to contact me at [Dotnet.RU green chat](https://t.me/dotnettalks) or guys from that chat, they will help you (maybe idc)
 
 ## Contributing
 
