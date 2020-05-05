@@ -6,6 +6,10 @@
 # Just copy-paste that to your CMD and be happy :>
 git clone https://github.com/Keroosha/terraria-setup.git &&\
 cd terraria-setup &&\
+curl https://terraria.org/system/dedicated_servers/archives/000/000/032/original/terraria-server-1353.zip?1515098333 > server.zip &&\
+unzip server.zip -d srvtmp &&\
+mv ./srvtmp/1353/Linux ./Linux &&\
+rm -rf srvtmp &&\
 docker-compose up
 ```
 
