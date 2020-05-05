@@ -1,0 +1,8 @@
+version: "3.0"
+services:
+  terraria:
+    build: .
+    ports:
+      - "7777:7777"
+    volumes:
+      - "./terraria-files:/etc/terraria-server"
