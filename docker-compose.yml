@@ -2,6 +2,9 @@ version: "3.0"
 services:
   terraria:
     build: .
+    # Server will shit bricks if tty will be not opened
+    tty: true
+    stdin_open: true
     ports:
       - "7777:7777"
     volumes:
